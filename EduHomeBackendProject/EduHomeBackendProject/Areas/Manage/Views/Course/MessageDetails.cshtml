@@ -1,0 +1,18 @@
+﻿@model CourseMessages
+@{
+    ViewData["Title"] = "MessageDetails";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1>Details</h1>
+    <div class="card" style="width: 100rem;">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">UserName :@("              "+Model.appUser.UserName)</li>
+            <li class="list-group-item">SendedAt :@("         "+Model.SendedAt.ToString("HH:mm dd.MM.yyyy"))</li>
+            <li class="list-group-item">Subject :@("        "+Model.Subject)</li>
+            <li class="list-group-item">Message :@("                "+Model.Message)</li>
+            <li class="list-group-item">CourseName :@("    "+Model.Course.CourseName)</li>
+        </ul>
+    </div>
+</div>
+

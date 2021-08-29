@@ -1,0 +1,104 @@
+﻿@model Setting
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Banner Area Start -->
+<div class="banner-area-wrapper">
+    <div class="banner-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="banner-content-wrapper">
+                        <div class="banner-content">
+                            <h2>contact</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner Area End -->
+<div class="ifm" style="width: 100%;margin:0 auto;">
+    <iframe  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388948.3248466814!2d49.57477494848202!3d40.394254379738996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d6bd6211cf9%3A0x343f6b5e7ae56c6b!2sBaku!5e0!3m2!1sen!2s!4v1628438815035!5m2!1sen!2s" width="600" height="450" style="border:0; width:100% " allowfullscreen="" loading="lazy"></iframe>
+</div>
+<div class="contact-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5 col-sm-5 col-xs-12">
+                <div class="contact-contents text-center">
+                    <div class="single-contact mb-65">
+                        <div class="contact-icon">
+                            <img src="~/img/contact/contact1.png" alt="contact">
+                        </div>
+                        <div class="contact-add">
+                            <h3>address</h3>
+                            <p>@Model.Address</p>
+                        </div>
+                    </div>
+                    <div class="single-contact mb-65">
+                        <div class="contact-icon">
+                            <img src="~/img/contact/contact2.png" alt="contact">
+                        </div>
+                        <div class="contact-add">
+                            <h3>Phone Number</h3>
+                            <p> @Model.ContactPhone1</p>
+                        </div>
+                    </div>
+                    <div class="single-contact">
+                        <div class="contact-icon">
+                            <img src="~/img/contact/contact3.png" alt="contact">
+                        </div>
+                        <div class="contact-add">
+                            <h3>E-mail address</h3>
+                            <p>@Model.Email</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-7 col-sm-7 col-xs-12">
+
+                <div class="reply-area">
+                    <h3>LEAVE A message</h3>
+
+                    <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human happinescias unde omnis iste natus error sit volptatem </p>
+                    <form id="contact-form" method="post" asp-action="SendMessage">
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <div class="row">
+                            @if (User.IsInRole("Member"))
+                            {
+                                <div class="col-md-12">
+                                    <p>Subject</p>
+                                    <input type="text" name="subject">
+                                    <p>Massage</p>
+                                    <textarea name="message" cols="15" rows="10"></textarea>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="col-md-12">
+                                    <p>Name</p>
+                                    <input type="text" name="name" >
+                                </div>
+                                <div class="col-md-12">
+                                    <p>Email</p>
+                                    <input type="email" name="email" >
+                                </div>
+                                <div class="col-md-12">
+                                    <p>Subject</p>
+                                    <input type="text" name="subject" >
+                                    <p>Massage</p>
+                                    <textarea name="message" cols="15" rows="10"></textarea>
+                                </div>
+                            }
+                        </div>
+                        <button type="submit" class="btn btn-primary">send message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Contact End -->
+

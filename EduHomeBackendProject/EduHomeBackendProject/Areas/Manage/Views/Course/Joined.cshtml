@@ -1,0 +1,102 @@
+﻿@model List<JoinedUser>
+@{
+    ViewData["Title"] = "Joined";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+    int order = (ViewBag.SelectedPage1 - 1) * 2 + 1;
+}
+
+<div class="container-fluid">
+<h1>JoinedUsers</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr style="align-items:center">
+                <th scope="col">#</th>
+                <th scope="col">FullName</th>
+                <th scope="col">CreatedAt</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr style="align-items:center">
+                    <th scope="row">@order</th>
+                    <td>@item.appUser.UserName</td>
+                    <td>@item.JoinedAt.ToString("HH:mm dd.MM.yyyy")</td>
+                    <td>
+                        @if (item.Status == null)
+                        {
+                            <span class="badge badge-warning">Pending</span>
+                        }
+                        else if (item.Status == true)
+                        {
+                            <span class="badge badge-success">Accepted</span>
+                        }
+                        else
+                        {
+                            <span class="badge badge-danger">Rejected</span>
+                        }
+                    </td>
+
+                    <td>
+                        @if (item.Status == null)
+                        {
+                            <a asp-action="JoinAccept" asp-route-joinedId="@item.Id" class="btn btn-success">Accept</a>
+                            <a asp-action="JoinReject" asp-route-joinedId="@item.Id" class="btn btn-danger">Reject</a>
+                        }
+                        else if (item.Status == true)
+                        {
+                            <a asp-action="JoinReject" asp-route-joinedId="@item.Id" class="btn btn-danger">Reject</a>
+                        }
+                        else
+                        {
+                            <a asp-action="JoinAccept" asp-route-joinedId="@item.Id" class="btn btn-success">Accept</a>
+                        }
+
+                    </td>
+                </tr>
+
+                order++;
+            }
+
+        </tbody>
+    </table>
+    @if (ViewBag.TotalPage1 > 1)
+    {
+        <div class="d-flex" style="justify-content:center !important">
+            <nav aria-label="...">
+                <ul class="pagination">
+                    @if (ViewBag.SelectedPage1 == 1)
+                    {
+                        <li class="page-item disabled">
+                            <a class="page-link " asp-action="joined" asp-route-page="@(ViewBag.SelectedPage1)" asp-route-courseId="@ViewBag.courseId" asp-route-forId="@ViewBag.courseId">Prev</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link " asp-action="joined" asp-route-page="@(ViewBag.SelectedPage1-1)" asp-route-courseId="@ViewBag.courseId" asp-route-forId="@ViewBag.courseId">Prev</a>
+                        </li>
+                    }
+                    @for (int i = 1; i <= ViewBag.TotalPage1; i++)
+                    {
+                        <li class="page-item @(i==ViewBag.SelectedPage1?"active":"")"><a class="page-link" asp-action="joined" asp-route-page="@i" asp-route-courseId="@ViewBag.courseId" asp-route-forId="@ViewBag.courseId">@i</a></li>
+                    }
+                    @if (ViewBag.SelectedPage1 == ViewBag.TotalPage1)
+                    {
+                        <li class="page-item disabled">
+                            <a class="page-link" asp-action="joined" asp-route-page="@(ViewBag.SelectedPage1)" asp-route-courseId="@ViewBag.courseId" asp-route-forId="@ViewBag.courseId">Next</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="joined" asp-route-page="@(ViewBag.SelectedPage1+1)" asp-route-courseId="@ViewBag.courseId" asp-route-forId="@ViewBag.courseId">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    }
+</div>
+

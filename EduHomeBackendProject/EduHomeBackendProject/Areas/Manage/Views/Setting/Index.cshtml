@@ -1,0 +1,29 @@
+﻿@model Setting
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h1>Settings</h1>
+    <div class="d-flex" style="margin-bottom:20px">
+        <a class="btn btn-primary" asp-action="edit" asp-route-id="1">Edit</a>
+    </div>
+    <div class="card" style="width: 100rem;">
+        <ul class="list-group list-group-flush">
+            <li class="list-group-item">Address :@("              "+Model.Address)</li>
+            <li class="list-group-item">ContactPhone :@("         "+Model.ContactPhone1)</li>
+            <li class="list-group-item">ContactPhone2 :@("        "+Model.ContactPhone2)</li>
+            <li class="list-group-item">Email :@("                "+Model.Email)</li>
+            <li class="list-group-item">BannerTextInAbout :@("    "+Model.BannerinAboutText)</li>
+            <li class="list-group-item">FirstBannerTextPart :@("  "+Model.FirstBannerTextPart)</li>
+            <li class="list-group-item">FooterDescription :@("    "+Model.FooterDescription)</li>
+            <li class="list-group-item">SecondBannerText :@("     "+Model.SecondBannerText)</li>
+            <li class="list-group-item">Website :@("              "+Model.Website)</li>
+            <li class="list-group-item">HeaderLogo : <img src="~/img/logo/@Model.HeaderLogo"/></li>
+            <li class="list-group-item">FooterLogo : <img src="~/img/logo/@Model.FooterLogo"/></li>
+            <li class="list-group-item">BannerImage : <img src="~/img/about/@Model.BannerImage" style="width:180px"/></li>
+        </ul>
+    </div>
+</div>
+

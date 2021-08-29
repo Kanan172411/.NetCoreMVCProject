@@ -1,0 +1,13 @@
+﻿
+@model List<Course>
+
+    @foreach (Course item in Model)
+    {
+        <li style="border: 1px solid; width: 300px;">
+            <a asp-controller="Course" asp-action="Details" asp-route-id="@item.Id" style="display:flex;justify-content:space-between">
+                <img src="~/img/course/@item.Image" alt="" style="width:65px"/>
+                <p>@item.CourseName</p>
+                <p class="searchprice">@item.Price $</p>
+            </a>
+        </li>
+    }

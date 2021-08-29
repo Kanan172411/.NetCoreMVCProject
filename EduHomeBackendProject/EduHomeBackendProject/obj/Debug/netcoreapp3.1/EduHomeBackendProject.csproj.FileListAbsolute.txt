@@ -1,0 +1,548 @@
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.exe
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.deps.json
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.json
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.dev.json
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csprojAssemblyReference.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfoInputs.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfo.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CoreCompileInputs.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.Manifest.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.xml
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EduHomeBackendProject.styles.css
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.input.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.output.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorCoreGenerate.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.genruntimeconfig.cache
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CopyComplete
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Signup.cshtml.g.cs
+C:\Users\Kanan Qarazada\source\repos\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.exe
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.deps.json
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.json
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.dev.json
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfoInputs.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfo.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CoreCompileInputs.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.Manifest.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.xml
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EduHomeBackendProject.styles.css
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.input.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.output.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorCoreGenerate.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CopyComplete
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.genruntimeconfig.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Login.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Create.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csprojAssemblyReference.cache
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchPartial.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Joined.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\MyCourses\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Messages.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\MessageDetails.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Index.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Details.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Messages.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\MessageDetails.cshtml.g.cs
+C:\Users\Kanan Qarazada\Desktop\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.exe
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.deps.json
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.json
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.runtimeconfig.dev.json
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\MailKit.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csprojAssemblyReference.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfoInputs.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.AssemblyInfo.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CoreCompileInputs.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.MvcApplicationPartsAssemblyInfo.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorAssemblyInfo.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.Manifest.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\staticwebassets\EduHomeBackendProject.StaticWebAssets.xml
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\EduHomeBackendProject.styles.css
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.input.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.TagHelpers.output.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorCoreGenerate.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Account\Login.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Admin\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Details.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\ContactMessage\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\CourseCategory\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Joined.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\MessageDetails.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Course\Messages.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\EventCategory\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\MessageDetails.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Event\Messages.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Feature\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\NoticeBoard\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Setting\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Subscribe\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Tag\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Create.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Teacher\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Edit.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Details.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Course\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Details.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Event\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\MyCourses\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchPartial.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Details.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cache
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.RazorTargetAssemblyInfo.cs
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.Views.pdb
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.csproj.CopyComplete
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.dll
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.pdb
+E:\BE\p220_be_21_backendproject-Kanan172411\EduHomeBackendProject\EduHomeBackendProject\obj\Debug\netcoreapp3.1\EduHomeBackendProject.genruntimeconfig.cache

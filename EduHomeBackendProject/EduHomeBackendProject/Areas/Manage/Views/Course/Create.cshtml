@@ -1,0 +1,110 @@
+﻿@model Course
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h1>Create</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="CourseName">CourseName</label>
+            <input type="text" asp-for="CourseName" class="form-control">
+            <span class="text-danger" asp-validation-for="CourseName"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CoursePosterContent">CoursePosterContent</label>
+            <textarea asp-for="CoursePosterContent" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="CoursePosterContent"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="CourseContent">CourseContent</label>
+            <textarea asp-for="CourseContent" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="CourseContent"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="AboutCourse">AboutCourse</label>
+            <textarea asp-for="AboutCourse" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="AboutCourse"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="HowToApply">HowToApply</label>
+            <textarea asp-for="HowToApply" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="HowToApply"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Certification">Certification</label>
+            <textarea asp-for="Certification" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="Certification"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="StartDate">StartDate</label>
+            <input asp-for="StartDate" class="form-control" type="date" />
+            <span class="text-danger" asp-validation-for="StartDate"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Duration">Duration</label>
+            <input asp-for="Duration" class="form-control" />
+            <span class="text-danger" asp-validation-for="Duration"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ClassDuration">ClassDuration</label>
+            <input asp-for="ClassDuration" class="form-control" />
+            <span class="text-danger" asp-validation-for="ClassDuration"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Language">Language</label>
+            <input asp-for="Language" class="form-control" />
+            <span class="text-danger" asp-validation-for="Language"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="StudentsCount">StudentsCount</label>
+            <input asp-for="StudentsCount" class="form-control" />
+            <span class="text-danger" asp-validation-for="StudentsCount"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Price">Price</label>
+            <input asp-for="Price" class="form-control" />
+            <span class="text-danger" asp-validation-for="Price"></span>
+        </div>
+
+        <div class="form-row">
+
+            <div class="form-group col-md-6">
+                <label for="exampleFormControlSelect1">Category</label>
+                <select class="form-control" asp-for="CourseCategoryId" asp-items="@(new SelectList(ViewBag.Categories,"Id","Name"))">
+                </select>
+                <span class="text-danger" asp-validation-for="CourseCategoryId"></span>
+            </div>
+
+            <div class="form-group col-md-6">
+                <label for="exampleFormControlSelect1">Tags</label>
+                <select class="form-control" asp-for="TagId" asp-items="@(new SelectList(ViewBag.Tags,"Id","Name"))">
+                </select>
+                <span class="text-danger" asp-validation-for="TagId"></span>
+            </div>
+
+        </div>
+
+        <div class="form-row">
+            <div class="form-group">
+                <input asp-for="ImageFile" value="" />
+                <span class="text-danger" asp-validation-for="ImageFile"></span>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

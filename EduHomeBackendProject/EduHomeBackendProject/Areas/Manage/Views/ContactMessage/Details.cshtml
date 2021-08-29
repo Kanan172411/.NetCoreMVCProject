@@ -1,0 +1,26 @@
+﻿@model ContactMessages 
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <h1>Details</h1>
+    <div class="card" style="width: 100rem;">
+        <ul class="list-group list-group-flush">
+            @if (Model.AppUserId == null)
+            {
+                <li class="list-group-item">UserName :@("              "+Model.Name)</li>
+                <li class="list-group-item">Email :@("              "+Model.Email)</li>
+            }
+            else
+            {
+                <li class="list-group-item">UserName :@("              "+Model.appUser.UserName)</li>
+                <li class="list-group-item">Email :@("              "+Model.appUser.Email)</li>
+            }
+            <li class="list-group-item">SendedAt :@("         "+Model.SendedAt.ToString("HH:mm dd.MM.yyyy"))</li>
+            <li class="list-group-item">Subject :@("        "+Model.Subject)</li>
+            <li class="list-group-item">Message :@("                "+Model.Message)</li>
+        </ul>
+    </div>
+</div>

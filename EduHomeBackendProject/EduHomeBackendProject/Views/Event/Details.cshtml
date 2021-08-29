@@ -1,0 +1,124 @@
+﻿@model EventDetailViewModel 
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- Banner Area Start -->
+<div class="banner-area-wrapper">
+    <div class="banner-area text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="banner-content-wrapper">
+                        <div class="banner-content">
+                            <h2>event details</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Banner Area End -->
+<!-- Event Details Start -->
+<div class="event-details-area blog-area pt-150 pb-140">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="event-details">
+                    <div class="event-details-img">
+                        <img src="~/img/event/@Model._event.Image" alt="event-details" style="width:780px">
+                        <div class="event-date">
+                            <h3>@Model._event.StartDateDayMonth.Day <span>@Model._event.StartDateDayMonth.ToString("MMM")</span></h3>
+                        </div>
+                    </div>
+                    <div class="event-details-content">
+                        <h2>@Model._event.EventName</h2>
+                        <ul>
+                            <li><span>time : </span>@Model._event.StartTime.ToString("hh\\:mm") - @Model._event.EndTime.ToString("hh\\:mm")</li>
+                            <li><span>venue : </span>@Model._event.Venue</li>
+                        </ul>
+                        <p>@Model._event.EventContent </p>
+                        <div class="speakers-area fix">
+                            <h4>speakers</h4>
+                            @foreach (var item in Model._event.EventTeachers)
+                            {
+                            <div class="single-speaker">
+                                <div class="speaker-img">
+                                    <img src="~/img/teacher/@item.Teacher.Image" alt="speaker" style="width:150px">
+                                </div>
+                                <div class="speaker-name">
+                                    <h5>@item.Teacher.FullName</h5>
+                                    <p>@item.Teacher.Profession </p>
+                                </div>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="reply-area">
+                        <h3>LEAVE A message</h3>
+
+                        <p>I must explain to you how all this a mistaken idea of ncing great explorer of the rut the is lder of human happinescias unde omnis iste natus error sit volptatem </p>
+                        <form id="contact-form" method="post" asp-action="SendMessage" asp-route-eventId="@Model._event.Id">
+                            <div asp-validation-summary="ModelOnly"></div>
+                            <div class="row">
+                                @if (User.IsInRole("Member"))
+                                {
+                                    <div class="col-md-12">
+                                        <p>Subject</p>
+                                        <input type="text" name="subject">
+                                        <p>Massage</p>
+                                        <textarea name="message" cols="15" rows="10"></textarea>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="col-md-12">
+                                        <p>Name</p>
+                                        <input type="text" name="name">
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p>Email</p>
+                                        <input type="email" name="email">
+                                    </div>
+                                    <div class="col-md-12">
+                                        <p>Subject</p>
+                                        <input type="text" name="subject">
+                                        <p>Massage</p>
+                                        <textarea name="message" cols="15" rows="10"></textarea>
+                                    </div>
+                                }
+                            </div>
+                            <button type="submit" formmethod="post" class="btn btn-primary">send message</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="blog-sidebar right">
+                    <div class="single-blog-widget mb-50">
+                        <h3>search</h3>
+                        <div class="blog-search">
+                            <form id="search" asp-action="index">
+                                <input type="search" placeholder="Search..." name="search" />
+                                <button type="submit">
+                                    <span><i class="fa fa-search"></i></span>
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="single-blog-widget mb-50">
+                        <h3>categories</h3>
+                        <ul>
+                            @foreach (var item in Model.eventCategories)
+                            {
+                                 <li><a asp-action="index" asp-route-categoryId="@item.Id">@item.Name (@item.events.Count())</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Event Details End -->

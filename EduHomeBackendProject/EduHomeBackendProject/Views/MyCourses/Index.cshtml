@@ -1,0 +1,90 @@
+﻿@model List<JoinedUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int order = (ViewBag.SelectedPage - 1) * 2 + 1;
+}
+
+<main class="page-section inner-page-sec-padding-bottom">
+    <div class="container">
+        <div class="container-fluid">
+            <h1>My Courses</h1>
+            <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Course Name</th>
+                        <th scope="col">Date</th>
+                        <th scope="col">Status</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@order</th>
+                            <td>@item.course.CourseName</td>
+                            <td>@item.JoinedAt.ToString("HH:mm dd.MM.yyyy")</td>
+                            <td>
+                                @if (item.Status == null)
+                                {
+                                    <span class="badge badge-warning" style="background-color:orange">Pending</span>
+                                }
+                                else if (item.Status == true)
+                                {
+                                    <span class="badge badge-success" style="background-color:green">Accepted</span>
+                                }
+                                else
+                                {
+                                    <span class="badge badge-danger" style="background-color:red">Rejected</span>
+                                }
+                            </td>
+                        </tr>
+
+                        order++;
+                    }
+
+                </tbody>
+            </table>
+            @if (ViewBag.TotalPage > 1)
+            {
+                <div class="d-flex" style="text-align:center">
+                    <nav aria-label="...">
+                        <ul class="pagination">
+                            @if (ViewBag.SelectedPage == 1)
+                            {
+                                <li class="page-item disabled">
+                                    <a class="page-link " asp-action="index" asp-route-page="@(ViewBag.SelectedPage)">Prev</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item">
+                                    <a class="page-link " asp-action="index" asp-route-page="@(ViewBag.SelectedPage-1)">Prev</a>
+                                </li>
+                            }
+                            @for (int i = 1; i <= ViewBag.TotalPage; i++)
+                            {
+                                <li class="page-item @(i==ViewBag.SelectedPage?"active":"")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
+                            }
+                            @if (ViewBag.SelectedPage == ViewBag.TotalPage)
+                            {
+                                <li class="page-item disabled">
+                                    <a class="page-link" asp-action="index" asp-route-page="@(ViewBag.SelectedPage)">Next</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item">
+                                    <a class="page-link" asp-action="index" asp-route-page="@(ViewBag.SelectedPage+1)">Next</a>
+                                </li>
+                            }
+                        </ul>
+                    </nav>
+                </div>
+            }
+        </div>
+    </div>
+</main>
+

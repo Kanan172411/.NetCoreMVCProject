@@ -1,0 +1,109 @@
+﻿@model Teacher
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1>Edit</h1>
+
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label asp-for="FullName">FullName</label>
+            <input type="text" asp-for="FullName" class="form-control">
+            <span class="text-danger" asp-validation-for="FullName"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Profession">Profession</label>
+            <input asp-for="Profession" class="form-control" />
+            <span class="text-danger" asp-validation-for="Profession"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="About">About</label>
+            <textarea asp-for="About" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="About"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Degree">Degree</label>
+            <input asp-for="Degree" class="form-control" />
+            <span class="text-danger" asp-validation-for="Degree"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Experience">Experience</label>
+            <input asp-for="Experience" class="form-control" />
+            <span class="text-danger" asp-validation-for="Experience"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ContactInfoMail">ContactInfoMail</label>
+            <input asp-for="ContactInfoMail" class="form-control" />
+            <span class="text-danger" asp-validation-for="ContactInfoMail"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ContactInfoSkype">ContactInfoSkype</label>
+            <input asp-for="ContactInfoSkype" class="form-control" />
+            <span class="text-danger" asp-validation-for="ContactInfoSkype"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="ContactInfoNumber">ContactInfoNumber</label>
+            <input asp-for="ContactInfoNumber" class="form-control" />
+            <span class="text-danger" asp-validation-for="ContactInfoNumber"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Language">Language</label>
+            <input asp-for="Language" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="Language"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="TeamLeader">TeamLeader</label>
+            <input asp-for="TeamLeader" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="TeamLeader"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Development">Development</label>
+            <input asp-for="Development" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="Development"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Design">Design</label>
+            <input asp-for="Design" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="Design"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Innovation">Innovation</label>
+            <input asp-for="Innovation" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="Innovation"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Communication">Communication</label>
+            <input asp-for="Communication" class="form-control" type="number" />
+            <span class="text-danger" asp-validation-for="Communication"></span>
+        </div>
+
+        <div class="form-group">
+            @if (Model.Image != null)
+            {
+                <div class="img-box d-inline-block" style="position:relative">
+                    <img src="~/img/teacher/@Model.Image" alt="Alternate Text" style="width:250px" />
+                </div>
+
+            }
+            <input asp-for="ImageFile" value="" />
+            <span class="text-danger" asp-validation-for="ImageFile"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

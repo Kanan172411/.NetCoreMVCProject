@@ -1,0 +1,23 @@
+﻿@model NoticeBoard
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+<div class="container-fluid">
+    <h1>Create</h1>
+
+    <form method="post">
+        <div class="form-group">
+            <label asp-for="@Model.NoticeDate">NoticeDate</label>
+            <input type="date" asp-for="@Model.NoticeDate" class="form-control" id="name" placeholder="NoticeDate">
+            <span class="text-danger" asp-validation-for="@Model.NoticeDate"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.NoticeText">NoticeText</label>
+            <input type="text" asp-for="@Model.NoticeText" class="form-control" id="name" placeholder="NoticeText">
+            <span class="text-danger" asp-validation-for="@Model.NoticeText"></span>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+

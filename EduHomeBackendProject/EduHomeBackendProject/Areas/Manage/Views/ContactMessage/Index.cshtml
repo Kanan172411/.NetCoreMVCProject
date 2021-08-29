@@ -1,0 +1,93 @@
+﻿@model List<ContactMessages>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+    int order = (ViewBag.SelectedPage - 1) * 2 + 1;
+}
+
+<div class="container-fluid">
+<h1>Messages</h1>
+    <table class="table table-striped">
+        <thead>
+            <tr style="text-align:center">
+                <th scope="col">#</th>
+                <th scope="col">FullName</th>
+                <th scope="col">Email</th>
+                <th scope="col">CreatedAt</th>
+                <th scope="col">Subject</th>
+                <th scope="col">Message</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr style="text-align:center">
+                    <th scope="row">@order</th>
+                    @if (item.AppUserId != null)
+                    {
+                        <td>@item.appUser.UserName</td>
+                        <td>@item.appUser.Email</td>
+                    }
+                    else
+                    {
+                        <td>@item.Name</td>
+                        <td>@item.Email</td>
+                    }
+                    <td>@item.SendedAt.ToString("HH:mm dd.MM.yyyy")</td>
+                    <td>@item.Subject</td>
+                    @if (item.Message.Length > 60)
+                    {
+                        @(item.Message.Substring(0,60) + " ......")
+                    }
+                    else
+                    {
+                        <td>@item.Message</td>
+                    }
+                    <td><a asp-action="details" asp-route-messageId="@item.Id" class="btn btn-warning">Details</a> </td>
+                </tr>
+
+                order++;
+            }
+
+        </tbody>
+    </table>
+    @if (ViewBag.TotalPage > 1)
+    {
+        <div class="d-flex" style="justify-content:center !important">
+            <nav aria-label="...">
+                <ul class="pagination">
+                    @if (ViewBag.SelectedPage == 1)
+                    {
+                        <li class="page-item disabled">
+                            <a class="page-link " asp-action="index" asp-route-page="@(ViewBag.SelectedPage)">Prev</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link " asp-action="index" asp-route-page="@(ViewBag.SelectedPage-1)">Prev</a>
+                        </li>
+                    }
+                    @for (int i = 1; i <= ViewBag.TotalPage; i++)
+                    {
+                        <li class="page-item @(i==ViewBag.SelectedPage?"active":"")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
+                    }
+                    @if (ViewBag.SelectedPage == ViewBag.TotalPage)
+                    {
+                        <li class="page-item disabled">
+                            <a class="page-link" asp-action="index" asp-route-page="@(ViewBag.SelectedPage)">Next</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" asp-action="index" asp-route-page="@(ViewBag.SelectedPage+1)">Next</a>
+                        </li>
+                    }
+                </ul>
+            </nav>
+        </div>
+    }
+</div>
+
